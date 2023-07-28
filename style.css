@@ -177,7 +177,7 @@ h3 {
   font-weight: 500;
 }
 
-.button:focus {
+.button:hover {
   cursor: pointer;
   background: linear-gradient(
     to bottom,
