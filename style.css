@@ -177,6 +177,15 @@ h3 {
   font-weight: 500;
 }
 
+.button:focus {
+  cursor: pointer;
+  background: linear-gradient(
+    to bottom,
+    hsl(252, 100%, 67%),
+    hsl(241, 81%, 54%)
+  );
+}
+
 /* ========================================== */
 
 .per p {
